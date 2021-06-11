@@ -30,5 +30,5 @@ Finding and setting the right set of parameters is a crucial part of deep learni
   <li>Check the effect of classification accuracy on the the number of neurons in the first hidden layer by changing the number of neurons in the first hidden layer from 2...100.</li>
   <li>Train the model for 10 epochs and plot the accuracy to neuron curve.</li> </ul>
   
-## Ploting the accuracy Curves
+## Ploting the accuracy curves
 Another important thing every deep learning practitioner should do is to check whether the loss is decreasing with increased training epochs. This can be checked y plotting the loss and accuracy curves.
